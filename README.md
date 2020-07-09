@@ -1,1 +1,1 @@
-# responsive-pricing-table
+# pricing-table
